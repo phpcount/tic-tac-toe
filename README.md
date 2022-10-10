@@ -1,5 +1,9 @@
 # tic-tac-toe
 
+[![QP1Iql.md.png](https://iili.io/QP1Iql.md.png)](https://freeimage.host/i/QP1Iql)
+
+[![QP0kU7.md.png](https://iili.io/QP0kU7.md.png)](https://freeimage.host/i/QP0kU7)
+
 ## Project setup
 ```
 npm install
